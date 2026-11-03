@@ -126,3 +126,5 @@ I’m building software that helps real teams move faster, operate more clearly,
 GitHub: https://github.com/richardsbrian86-oss
 
 Open to conversations with small teams, product-focused builders, and operators who want practical software that makes work easier.
+
+Open to junior product/software roles, small-team collaboration opportunities, and hands-on experience building with a strong team.
