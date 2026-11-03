@@ -1,10 +1,12 @@
 # Brian Richards
 
-BJJ coach, operator, and software builder for gyms, service businesses, and teams running real-world operations.
+Self-taught AI-assisted builder, BJJ coach, and operator building practical software for gyms, service businesses, and teams solving real operational problems.
 
-I build tools for businesses that need practical systems: scheduling, bookings, lead follow-up, dashboards, reporting, and workflow automation. My background in coaching and operations shaped how I think about software: useful, clear, reliable, and built for the people doing the work.
+I build tools that help businesses manage scheduling, bookings, lead follow-up, reporting, and workflow automation without overcomplicating the process. My background in coaching and operations shaped the way I build software: useful, readable, reliable, and grounded in the reality of how people actually work.
 
-I’ve spent time troubleshooting live products like BJJ Session Planner and Flow State CRM, and I’ve tested AI workflow patterns through Guardrail in VS Code. That hands-on work is a big part of how I build software—by solving real friction, not just writing code for the sake of it.
+I’m honest about being a self-taught builder who uses AI-assisted tooling as part of my workflow. I work with modern tools to prototype quickly, test ideas, and build real products, but I care most about solving the right problem and shipping something that earns trust.
+
+I’m also looking to join a small team where I can keep learning, contribute in real-world product work, and gain hands-on experience building software alongside experienced people.
 
 ## What I build
 
@@ -18,10 +20,19 @@ I focus on systems for:
 
 Most of my work sits at the intersection of product thinking, operations, and practical engineering.
 
+## Hands-on product work
+
+I’ve worked directly on real product issues and operational software, including:
+
+- Troubleshooting BJJ Session Planner for scheduling and booking reliability
+- Testing and refining Flow State CRM for lead-handling and workflow usability
+- Evaluating AI and automation patterns in Guardrail inside VS Code
+- Building practical tools for businesses that run on people, process, and timing
+
 ## Distinctive work
 
 ### Guardrail
-A practical project centered on guardrails, evaluation patterns, and reliable AI workflow design. I’ve also used it in VS Code to test workflows and refine the developer experience.
+A practical project focused on guardrails, evaluation patterns, and reliable AI workflow design. I’ve also used it in VS Code to test workflows and refine the developer experience.
 
 ### eval-standard
 A system for standardizing evaluation and quality checks in modern automation and AI workflows.
@@ -32,15 +43,6 @@ A TypeScript-focused learning and tooling project designed to make developer wor
 ### GroundUp
 A project philosophy: build from the fundamentals, solve the actual problem, and create tools that are useful in the real world.
 
-## Hands-on product work
-
-I’ve worked directly on real product issues and operational software, including:
-
-- Troubleshooting BJJ Session Planner for scheduling and booking workflow reliability
-- Testing and refining Flow State CRM for lead and workflow management usability
-- Evaluating AI and automation patterns in Guardrail within VS Code
-- Building practical tooling for businesses that depend on people, process, and timing
-
 ## Featured projects
 
 ### BJJ Session Planner
@@ -49,7 +51,7 @@ A scheduling and booking platform designed for gyms, coaches, and service busine
 - Instructor availability coordination
 - Booking automation and conflict reduction
 - Calendar-aware scheduling
-- Clear operational workflows for running a business
+- Operational clarity for running a business
 
 GitHub: https://github.com/richardsbrian86-oss/BJJ-Session-Planner
 
@@ -91,7 +93,7 @@ A dashboard for tracking churn signals, retention trends, and product health met
 - Product reporting
 - Decision-support dashboards
 
-GitHub: https://github.com/richardsbrian86-oss/Retention-Pulse-Dashbaord
+GitHub: https://github.com/richardsbrian86-oss/Retention-Pulse-Dashboard
 
 ## Toolstack
 
@@ -102,7 +104,7 @@ I work with a practical AI-assisted developer stack, including:
 - Claude Code
 - ChatGPT / Codex
 
-These tools help me prototype quickly, validate workflows, test systems, and iterate on real product ideas faster.
+These tools help me prototype quickly, validate workflows, test systems, and iterate on ideas faster.
 
 ## Tech stack
 
@@ -123,4 +125,4 @@ I’m building software that helps real teams move faster, operate more clearly,
 
 GitHub: https://github.com/richardsbrian86-oss
 
-Open to collaborations, product engineering work, and software projects for operators, gyms, and businesses solving complex operational workflows.
+Open to conversations with small teams, product-focused builders, and operators who want practical software that makes work easier.
